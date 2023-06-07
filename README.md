@@ -1,2 +1,2 @@
 # predicting_house_sale_prices
-Predicting House Sale Prices
+"Guided project" while learning via Dataquest 
